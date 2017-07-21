@@ -19,7 +19,7 @@
                 "UID": 2
               }
             },
-            "The Design",
+            "branch: master",
             {
               "$class": {
                 "UID": 23
@@ -210,11 +210,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 122,
-    "x": 830,
+    "width": 163,
+    "x": 789,
     "y": 948
   },
-  "glyphBounds": "{{0, 4}, {121, 23}}",
+  "glyphBounds": "{{1, 4}, {162, 19}}",
   "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -222,7 +222,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "The Design Copy 4",
+  "name": "branch: master",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
